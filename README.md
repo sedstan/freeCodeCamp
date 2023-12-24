@@ -1,10 +1,12 @@
 # freeCodeCamp
 
-A series of lessons to earn certificates using freeCodeCamp.
+A series of lessons and projects to earn certificates using freeCodeCamp.
 
 ## Certification Paths
 
 ### Scientific Computing with Python(Beta)
+
+Learning Python creating algorithms and applications.
 
 #### Learn String Manipulation by Building a Cipher
 
