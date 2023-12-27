@@ -10,8 +10,13 @@ Learning Python creating algorithms and applications.
 
 #### Learn String Manipulation by Building a Cipher
 
-In this project, I learned fundamental programming concepts in Python, such as variables, functions, loops, and conditional statements.
+In this lesson, I learned fundamental programming concepts in Python, such as variables, functions, loops, and conditional statements.
 
 #### Learn How to Work with Numbers and Strings by Implementing the Luhn Algorithm
 
-In this project, I gained experience working with numerical computations and string manipulation.
+In this lesson, I gained experience working with numerical computations and string manipulation.
+
+#### Learn Lambda Functions by Building an Expense Tracker
+
+In this lesson, I gained experience working with lambda functions by building an
+expense tracker. I was also introduced to: `sum()`, `filter()`, lists and dictionaries.
