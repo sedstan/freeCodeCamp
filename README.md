@@ -12,6 +12,6 @@ Learning Python creating algorithms and applications.
 
 In this project, I learned fundamental programming concepts in Python, such as variables, functions, loops, and conditional statements.
 
-### Learn How to Work with Numbers and Strings by Implementing the Luhn Algorithm
+#### Learn How to Work with Numbers and Strings by Implementing the Luhn Algorithm
 
 In this project, I gained experience working with numerical computations and string manipulation.
