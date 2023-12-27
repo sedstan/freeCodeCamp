@@ -1,17 +1,33 @@
 def add_expense(expenses, amount, category):
+    """Adds an expense
+
+    :params: expenses: list - a list of items, their corresponding values and
+their categories
+    :params: amount: float - the value of the expense
+    :params: category: string - a category for the corresponding expense
+    """
     expenses.append({'amount': amount, 'category': category})
 
 
 def print_expenses(expenses):
+    """Prints the expense 
+        :params: expenses: list - a list of items """
     for expense in expenses:
         print(f'Amount: {expense["amount"]}, Category: {expense["category"]}')
 
 
 def total_expenses(expenses):
+    """Calculates the total value of the expenes
+        :params: expenses: list - a list of the expenses
+        :return sum: - a sum of all list expenses"""
     return sum(map(lambda expense: expense['amount'], expenses))
 
 
 def filter_expenses_by_category(expenses, category):
+    """Filters the expenses by category
+        :params: expenses: list - a list of the expenses
+        :params: category: string - a category for the corresponding expense
+        :return dictionary - a dictionary of amount and categories """
     return filter(lambda expense: expense['category'] == category, expenses)
 
 
