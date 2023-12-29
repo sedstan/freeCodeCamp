@@ -21,3 +21,11 @@ In this lesson, I gained experience working with numerical computations and stri
 
 In this lesson, I gained experience working with lambda functions by building an
 expense tracker. I was also introduced to: `sum()`, `filter()`, lists and dictionaries.
+
+#### Learn Python List Comprehension by Building a Case Converter
+
+In this lesson, I gained experience in understanding how List Commprehension constructs a new Python list from an iterable type without using a loop or the `.append()` method.
+
+A program that takes a string formatted in Camel Case or Pascal Case, then converts it into Snake Case.
+
+Two phases: 1. Use a loop to implement the program. 2. Use List Comprehension instead of a loop to acheive the same results.
