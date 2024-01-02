@@ -27,12 +27,12 @@ In this lesson, I gained experience in understanding how List Commprehension con
 
 A program that takes a string formatted in Camel Case or Pascal Case, then converts it into Snake Case.
 
+Two phases: 1. Use a loop to implement the program. 2. Use List Comprehension instead of a loop to acheive the same results.
+
 #### Learn Regular Expression by Building a Password Generator
 
 In this lesson, I learned how to import modules from the Python standard library. I also learned how to use Regular Expressions.
 
 A function that takes 5 parameters, `length`, `nums`, `special_chars`, `uppercase`, `lowercase`, and returns a randomly generated password.
-
-Two phases: 1. Use a loop to implement the program. 2. Use List Comprehension instead of a loop to acheive the same results.
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e63eb68ab6eb43718b20c4e2569579f9)](https://app.codacy.com/gh/sedstan/freeCodeCamp/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
