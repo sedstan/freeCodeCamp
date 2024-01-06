@@ -23,10 +23,8 @@ def shortest_path(graph, start, target=''):
         for node, distance in graph[current]:
             if distance + distances[current] < distances[node]:
                 distances[node] = distance + distances[current]
-                if paths[node] and paths[node][-1] == node:
-                    paths[node] = paths[current][:]
-                else:
-                    paths[node].extend(paths[current])
+                # check if shorter path exsits and updates path.
+                paths[node] = paths[current][:]
                 paths[node].append(node)
         unvisited.remove(current)
 

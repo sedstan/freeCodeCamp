@@ -39,6 +39,8 @@ A function that takes 5 parameters, `length`, `nums`, `special_chars`, `uppercas
 
 In this lesson, I gained experience building an algorithm using functions, loops, conditional statements and dictionary comprehension.
 
-I saw an opportunty to refactor in the second file.
+I saw an opportunty to refactor in the second file. Used ChatGPT as my Senior Python Developer to guide me. It told me the How and Why of the refactoring opportunities, without explicitly telling me where the refactors are. This allowed me to figure it out on my own and understand why it is important to do this.
+
+In `line 26` we removed the if-else statement. I learned that we don't need to conditional. It adds an extra step in getting to `paths[node]` - a copy of `paths[current]`.
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e63eb68ab6eb43718b20c4e2569579f9)](https://app.codacy.com/gh/sedstan/freeCodeCamp/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
