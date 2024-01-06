@@ -9,6 +9,10 @@ my_graph = {
 
 
 def shortest_path(graph, start, target=''):
+    """A funciton that determines the shortest path between nodes. 
+        :params: graph: dictionary - a dictionary of nodes that lists the next corresponding node and its distance
+        :params: start: string - the key of the key:value pair in the graph
+        :return distances, paths: dictionary - the dictionaries of the distances and paths for each node  """
     unvisited = list(graph)
     distances = {node: 0 if node == start else float('inf') for node in graph}
     paths = {node: [] for node in graph}

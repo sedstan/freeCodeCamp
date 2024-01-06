@@ -35,4 +35,8 @@ In this lesson, I learned how to import modules from the Python standard library
 
 A function that takes 5 parameters, `length`, `nums`, `special_chars`, `uppercase`, `lowercase`, and returns a randomly generated password.
 
+#### Learn Algorithm Design by Building a Shortest Path Algortithm
+
+In this lesson, I gained experience building an algorithm using functions, loops, conditional statements and dictionary comprehension.
+
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e63eb68ab6eb43718b20c4e2569579f9)](https://app.codacy.com/gh/sedstan/freeCodeCamp/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
