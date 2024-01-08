@@ -53,8 +53,8 @@ Then I refactor print statements for clarity. I added a new function to handle o
 
 Lastly, I added validation for our algorithm.
 
-&nbsp;
 ---
+
 &nbsp;
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e63eb68ab6eb43718b20c4e2569579f9)](https://app.codacy.com/gh/sedstan/freeCodeCamp/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
