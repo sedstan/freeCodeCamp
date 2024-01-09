@@ -1,6 +1,6 @@
 # freeCodeCamp Certification Paths
 
-A series of lessons and projects to earn certificates using freeCodeCamp.
+A series of lessons and projects to earn certificates using [freeCodeCamp](https://freecodecamp.org).
 
 ## Scientific Computing with Python(Beta)
 
