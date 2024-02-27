@@ -53,6 +53,10 @@ Then I refactor print statements for clarity. I added a new function to handle o
 
 Lastly, I added validation for our algorithm.
 
+#### Learn Recursion by Solving the Tower of Hanoi Puzzle
+
+In this lesson I learnt about recursion by solving the Tower of Hanoi puzzle. The first  step involved writing using a series of `if-else` statements to the solution. The next step was to implement a recursive solution.
+
 ---
 
 &nbsp;
