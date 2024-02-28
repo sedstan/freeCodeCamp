@@ -57,6 +57,10 @@ Lastly, I added validation for our algorithm.
 
 In this lesson I learnt about recursion by solving the Tower of Hanoi puzzle. The first  step involved writing using a series of `if-else` statements to the solution. The next step was to implement a recursive solution.
 
+#### Learn Data Structures by Building the Merge Sort Algorithm
+
+In this lesson I learnt how to interact with data structures by sorting a list of random numbers using the Merge Sort Algortihm.
+
 ---
 
 &nbsp;
