@@ -2,11 +2,11 @@
 
 A series of lessons and projects to earn certificates using [freeCodeCamp](https://freecodecamp.org).
 
-## Scientific Computing with Python(Beta)
+## Scientific Computing with Python(Beta) ➡️ [Github](https://github.com/sedstan/freeCodeCamp/tree/3f498cf8ee68c05e9e83802eeca5131bba7a1033/scientific-computing-with-python-beta/course)
 
 Learning Python creating algorithms and applications.
 
-### Lessons
+### Scientific Computing Lessons
 
 #### Learn String Manipulation by Building a Cipher
 
@@ -60,6 +60,16 @@ In this lesson I learnt about recursion by solving the Tower of Hanoi puzzle. Th
 #### Learn Data Structures by Building the Merge Sort Algorithm
 
 In this lesson I learnt how to interact with data structures by sorting a list of random numbers using the Merge Sort Algortihm.
+
+## Relational Database ➡️ [Github](https://github.com/sedstan/freeCodeCamp/tree/3f498cf8ee68c05e9e83802eeca5131bba7a1033/relational-database/celestial-bodies-database)
+
+Seleceted courses to learn PostgreSQL and Bash building scripts and databases.
+
+### Relational Database Lessons
+
+#### Celestial Bodies
+
+Build a database using outerspace! This shows the complete dump of the database.
 
 ---
 
